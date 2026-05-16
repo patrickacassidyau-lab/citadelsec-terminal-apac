@@ -1,3 +1,5 @@
 # citadelsec-terminal-apac
 Containing all comprehensive versions of drafting for Citadel Securities Terminal. 
 Funnily enough, our final version used (as seen in finalversion.py) was super simple - only 8kb and reverse engineered off web-scraped, predicted patterns from the jsons of the competition. This placed us 8th in APAC - much better in 'elo' then the complex, ML-tested models we tried would have. 
+
+NOTE: this repo is retrospective - I coded all these in VS code during the comp.
